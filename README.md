@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrien-ve
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web dev projects
 
